@@ -80,7 +80,7 @@ Query 2 lists physicians’ names who did not have any visits on April 29, 2023.
 <img width="708" alt="Query 2" src="https://github.com/mirLakhani/healthcare1/assets/148798235/eae3ea90-a16d-4565-a7e7-022d3e9376f8">
 
 
-This query can allow managers to quickly identify which physicians did not see any patients on a particular day. This will help them when they are scheduling the physicians for the upcoming weeks.
+This query can allow managers to quickly identify which physicians did not see any patients on a particular day. This provides information that will be useful when they are scheduling the physicians for the upcoming weeks. The insights we derive from this query will help managers fine tune each physician’s schedule which is important for the overall success of the medical center.
 
 Query 3: 
 
@@ -104,7 +104,7 @@ Query 5 lists the patients with a total billing amount exceeding 3000 dollars.
 <img width="689" alt="Query 5" src="https://github.com/mirLakhani/healthcare1/assets/148798235/ec8d9c19-a435-4e83-8aa1-323889b68423">
 
 
-This query enables clinic managers to find which patients have spent $3000 or more on a single bill for a visit, in case the the managers would like to decide to give a future discount or rebate to those patients.
+This query enables clinic managers to find which patients have spent over $3,000 total over all of their visits. The clinic policy is that once a patient has been billed over $3,000 they have the option to enroll in the clinic’s payment plan to pay on a monthly basis. This is designed for patients with frequent visits.
 
 Query 6:
 
@@ -128,7 +128,7 @@ Query 8 lists the five suppliers that have supplied the most medications, and th
 <img width="693" alt="Query 8" src="https://github.com/mirLakhani/healthcare1/assets/148798235/2ecaa742-b848-4efc-85a1-36b78a6289ae">
 
 
-This query provides a rundown of the suppliers that have supplied the highest number of medications. This is important because it can help managers identify which suppliers the clinic should consider negotiating better terms with. 
+This query offers a valuable overview of the suppliers that have consistently provided the highest number of medications, allowing managers to make informed decisions regarding supplier relationships, when to negotiate better terms, and to enhance the clinic's overall medication inventory management.
 
 Query 9:
 
