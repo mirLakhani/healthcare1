@@ -10,9 +10,13 @@ MIST 4610 Group Project 1
 ## Team Members
 
 Dylan McMorrow [@DylanMcMorrow ](https://github.com/dylanmcmorrow5/MIST4610GroupProject1/blob/main/README.md)
+
 Aafreen Anjum [@AafreenAnjum](https://github.com/aanjum2003/healthcare/blob/main/README%20(1).md)
+
 Jack Drummond [@JackDrummond](https://github.com/jdrum7/MISTproject)
+
 Ishi Gupta [@IshiGupta](https://github.com/ishigupta24/healthcare/blob/main/README%20(1).md)
+
 Miral Lakhani [@MiralLakhani](https://github.com/mirLakhani/healthcare1) 
 
 ## Problem Description
