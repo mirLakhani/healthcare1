@@ -111,7 +111,7 @@ Query 9 lists the visit with the highest number of tests performed.
 
 This query allows managers to identify the highest amount of tests conducted during one visit. Perhaps they are considering adding an additional charge if a certain number of tests are conducted, and they wish to see the largest number in order to help them make a more informed decision.
 
-Query 10 lists the number of bills of each patient with an amount that is greater than their own average bill amount
+Query 10 lists the number of bills of each patient with an amount that is greater than their own average bill amount.
 <img width="685" alt="Query 10" src="https://github.com/mirLakhani/healthcare1/assets/148798235/30c81e2d-4e0e-43e9-bed8-2fbbf84ba35f">
 
 This query allows the clinic staff to give more detailed information on billing to their patients. A patient who has had numerous visits may want to know the number of visits that have exceeded the average billing amount of one of their own visits.
