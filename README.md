@@ -88,7 +88,7 @@ Query 3 lists all physicians and the total number of visits they have conducted.
 <img width="696" alt="Query 3" src="https://github.com/mirLakhani/healthcare1/assets/148798235/49f65154-dbab-4582-ba8c-5fce0cb71ffe">
 
 
-This query allows managers to monitor physician progress and could be used for Employee of the Week purposes.
+This query allows managers to monitor physician progress and could be used for Employee of the Week purposes. This would also enable managers to assess the productivity and contributions to patient care of the physicians.By tracking how frequently physicians have patient visits and identifying any underperformance and potential discrepancies.
 
 Query 4: 
 
