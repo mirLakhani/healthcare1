@@ -9,11 +9,11 @@ MIST 4610 Group Project 1
 
 ## Team Members
 
-Miral Lakhani 
-Dylan McMorrow 
-Aafreen Anjum 
-Jack Drummond 
-Ishi Gupta 
+Dylan McMorrow @DylanMcMorrow 
+Aafreen Anjum @AafreenAnjum
+Jack Drummond @JackDrummond
+Ishi Gupta @IshiGupta
+Miral Lakhani @MiralLakhani 
 
 ## Problem Description
 
